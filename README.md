@@ -1,112 +1,124 @@
 <h1 align="center">Hi 👋, I'm Shubham Ghaturle</h1>
-<h3 align="center">🚀 Full Stack JavaScript Developer | MERN | NestJS | React Native</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;NestJS+%7C+Microservices+Expert;Chatbot+%7C+WhatsApp+Automation;4%2B+Years+Experience&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+JavaScript+Developer;NestJS+%7C+Microservices+Expert;Chatbot+%7C+WhatsApp+Automation;4%2B+Years+Experience&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <a href="https://github.com/shubham-ghaturle01">
-    <img src="https://komarev.com/ghpvc/?username=shubham-ghaturle01&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  </a>
+🚀 <b>Full Stack JavaScript Developer | MERN | NestJS | React Native</b><br/>
+⚡ <b>Building Scalable Systems | Chatbot & WhatsApp Automation Expert</b><br/>
+💼 <b>4+ Years Experience | Microservices | System Design</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubham-ghaturle01&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔥 Building scalable applications using **React, Node.js, NestJS**
-- 🤖 Specialized in **Chatbot Systems & WhatsApp Flow Automation**
+- 🔥 Building **high-performance scalable applications**
+- 🤖 Expert in **Chatbot Systems & WhatsApp Automation**
 - ⚡ Strong in **API Design, Performance Optimization & Clean Architecture**
-- 📱 Experience with **React Native Apps**
-- 🧠 Working with **Microservices Architecture & System Design**
+- 📱 Developed **cross-platform apps using React Native**
+- 🧠 Focused on **Microservices & System Design**
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 🎨 Frontend
+### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend (Core Strength 💪)
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & Caching
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
 </p>
 
-### ⚡ DevOps & Tools
+### ⚡ DevOps & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
 </p>
 
+### 🧠 Architecture & Concepts
+<p>
+  <img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-Scalable-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Design-REST%20%7C%20GraphQL-orange?style=for-the-badge" />
+</p>
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 Chatbot Flow Builder (WhatsApp Automation)
-- Drag & Drop chatbot builder
-- WhatsApp API automation engine
-- Built with scalable NestJS architecture
+### 🤖 Chatbot Flow Builder
+- Drag & Drop chatbot builder  
+- WhatsApp automation engine  
+- Scalable backend using NestJS  
+🔗 https://github.com/shubham-ghaturle01
 
-### 📊 Mission Control Dashboard (Microservices + Analytics)
-- Real-time monitoring dashboard
-- Microservices-based backend
-- High-performance data handling
+---
 
-### 🏋️ Gym Manager App (React Native)
-- Role-based authentication system
-- Admin, Trainer & User modules
-- Mobile-first architecture
+### 📊 Mission Control Dashboard
+- Real-time analytics system  
+- Microservices architecture  
+- High-performance data processing  
+🔗 https://github.com/shubham-ghaturle01
+
+---
+
+### 🏋️ Gym Manager App
+- Role-based authentication  
+- Admin, Trainer & User modules  
+- Built using React Native  
+🔗 https://github.com/shubham-ghaturle01
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-ghaturle01&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-ghaturle01&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-ghaturle01&layout=compact&theme=tokyonight" />
-</p>
+- 🔥 4+ Years of Development Experience  
+- 🚀 Built Scalable Backend Systems (Node.js, NestJS)  
+- 🤖 Chatbot & WhatsApp Automation Specialist  
+- ⚡ Strong in Microservices & System Design  
+- 📱 Experience in React Native Applications  
 
 ---
 
-## 🏆 Achievements & Activity
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham-ghaturle01&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/shubham-ghaturle-a64294135?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:shubhamghaturle1998@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+- 🥇 Developed production-grade chatbot automation systems  
+- 🚀 Built microservices-based scalable architectures  
+- ⚡ Designed high-performance APIs handling real-world use cases  
+- 📈 Delivered multiple end-to-end full stack applications  
 
 ---
 
-## ⚡ Fun Fact
+## 📈 Contribution Highlights
 
-💡 I love building scalable backend systems & automating complex workflows 🚀  
-🔥 Turning ideas into production-ready systems is my passion
+- 📅 Consistent contributor on GitHub  
+- 🔧 Regular updates on backend & system design projects  
+- 🚀 Focused on real-world production-ready applications
+
+---
+## ⚡ Current Focus
+
+- 🚀 Production-grade **NestJS Microservices**
+- 🤖 Scaling **WhatsApp Automation Systems**
+- ⚡ Advanced **System Design & Performance Optimization**
+
+---
+
+## 💡 Fun Fact
+
+💡 I turn complex problems into scalable backend systems 🚀
 
 ---
 
