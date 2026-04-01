@@ -1,80 +1,115 @@
-# Hi 👋 I'm Shubham Ghaturle
+<h1 align="center">Hi 👋, I'm Shubham Ghaturle</h1>
+<h3 align="center">🚀 Full Stack JavaScript Developer | MERN | NestJS | React Native</h3>
 
-🚀 **Full Stack JavaScript Developer | MERN | NestJS | React Native**  
-💼 **4+ Years Experience | Chatbot Systems | WhatsApp Automation | Microservices**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;NestJS+%7C+Microservices+Expert;Chatbot+%7C+WhatsApp+Automation;4%2B+Years+Experience&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <a href="https://github.com/shubham-ghaturle01">
+    <img src="https://komarev.com/ghpvc/?username=shubham-ghaturle01&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🔥 Building scalable applications using **React, Node.js, and NestJS**  
-🤖 Specialized in **Chatbot Systems & WhatsApp Flow Automation**  
-⚡ Strong in **API Design, Performance Optimization & Clean Architecture**  
-📱 Experience with **React Native Apps**
+- 🔥 Building scalable applications using **React, Node.js, NestJS**
+- 🤖 Specialized in **Chatbot Systems & WhatsApp Flow Automation**
+- ⚡ Strong in **API Design, Performance Optimization & Clean Architecture**
+- 📱 Experience with **React Native Apps**
+- 🧠 Working with **Microservices Architecture & System Design**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux" />
+</p>
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql" />
+</p>
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
 
 ### ⚡ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 Chatbot Flow Builder (WhatsApp Automation)
-- Dynamic chatbot builder with drag-drop flow
-- WhatsApp API integration & automation engine
-- Scalable backend using NestJS
+- Drag & Drop chatbot builder
+- WhatsApp API automation engine
+- Built with scalable NestJS architecture
 
 ### 📊 Mission Control Dashboard (Microservices + Analytics)
-- Real-time analytics dashboard
-- Microservices architecture with high performance
-- Data visualization & monitoring system
+- Real-time monitoring dashboard
+- Microservices-based backend
+- High-performance data handling
 
-### 🏋️ Gym Manager App (React Native + Role-Based System)
-- Mobile app for gym management
+### 🏋️ Gym Manager App (React Native)
 - Role-based authentication system
-- User, trainer & admin modules
+- Admin, Trainer & User modules
+- Mobile-first architecture
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-ghaturle01&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-ghaturle01&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-ghaturle01&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubham-ghaturle01&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: shubhamghaturle1998@gmail.com  
+<p align="center">
+  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/shubham-ghaturle-a64294135?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:shubhamghaturle1998@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-💡 I love building scalable backend systems and automating workflows 🚀
+💡 I love building scalable backend systems & automating complex workflows 🚀  
+🔥 Turning ideas into production-ready systems is my passion
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
